@@ -1,0 +1,26 @@
+.Image{
+    height: 180px;
+width:300px;
+padding:0px;
+border:0px;
+margin:0px 60% 0px 40%;
+}
+body{
+    background-color: lavender;
+    /* background-image: url("bg4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;   */
+
+}
+form{
+    padding:10px 50px 3px 5px;
+    border:5px solid black;
+    margin:100px 600px 100px 600px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:750;
+}
+.wide-input{
+    width:250px;
+    height:20px;
+}
